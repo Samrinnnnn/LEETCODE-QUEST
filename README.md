@@ -8,7 +8,7 @@ My solutions for the [LeetCode Database Quest](https://leetcode.com), organized 
 | Workstation | Focus Area | Status |
 | :--- | :--- | :--- |
 | **1. SQL Basic Query Workstation** | `SELECT`, `WHERE`, `DISTINCT` | ✅ |
-| **2. Filtering & Aggregation Operation Cabin** | `SUM`, `COUNT`, `HAVING` | 📅 |
+| **2. Filtering & Aggregation Operation Cabin** | `SUM`, `COUNT`, `HAVING` | ⏳  |
 | **3. Grouping & Join Aggregation Library** | `GROUP BY`, `JOIN` | 📅 |
 | **4. Window Functions & Ranking Analysis Room** | `RANK`, `LEAD`, `LAG` | 📅 |
 | **5. SQL Advanced Operation Center** | `CTEs`, Subqueries, Regex | 📅 |
